@@ -5,3 +5,4 @@ function approvedOrNot(score){
 
 approvedOrNot(5);
 approvedOrNot(7);
+vamos argumentargit
